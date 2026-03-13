@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+# Welcome to JurisConnect project
 
 ## Project info
 
@@ -10,7 +10,7 @@ There are several ways of editing your application.
 
 **Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c2cfe2be-3e22-405c-99e3-0147e689070f) and start prompting.
+Simply visit the (https://lovable.dev/projects/c2cfe2be-3e22-405c-99e3-0147e689070f) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
